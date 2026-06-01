@@ -101,7 +101,7 @@ Se realizaron actividades relacionadas con la administración de Oracle Database
 
 ---
 
-# 🖥️ Oracle APEX
+# Oracle APEX
 
 ## Formulario de gestión de empleados
 
@@ -111,7 +111,7 @@ Se desarrolló un formulario utilizando Oracle APEX para realizar operaciones de
 
 ---
 
-# 📷 Capturas del proyecto
+# Capturas del proyecto
 
 ## Materialized View
 
@@ -123,7 +123,7 @@ Se desarrolló un formulario utilizando Oracle APEX para realizar operaciones de
 
 ---
 
-# 📂 Contenido del repositorio
+# Contenido del repositorio
 
 - `/sql` → Scripts SQL y PL/SQL desarrollados durante el proyecto.
 - `/images` → Capturas representativas de la implementación.
@@ -136,7 +136,7 @@ Se desarrolló un formulario utilizando Oracle APEX para realizar operaciones de
 
 ---
 
-# ✅ Resultados obtenidos
+# Resultados obtenidos
 
 - Fortalecimiento de conocimientos en SQL y PL/SQL.
 - Implementación de mecanismos de automatización en bases de datos Oracle.
@@ -146,7 +146,7 @@ Se desarrolló un formulario utilizando Oracle APEX para realizar operaciones de
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Jeikson Bedoya Gómez**
 
